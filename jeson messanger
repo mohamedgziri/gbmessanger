@@ -4,18 +4,18 @@
      
     
         
-      "banner_type":"admob",
-      "inter_type":"admob",
-      "native_type":"admob",
+      "banner_type":"applovin",
+      "inter_type":"applovin",
+      "native_type":"applovin",
        
 
       "ironsource_id":"1896f3d85",
       "unity_id":"5149029",
      
 
-     "banner_id":"ca-app-pub-7901917771800521/2077810562",
-      "interstitial_id":"ca-app-pub-7901917771800521/5502335662",
-      "native_id":"ca-app-pub-7901917771800521/6358716790"
+     "banner_id":"9ce02deaac261429",
+      "interstitial_id":"a70dffc763be2612",
+      "native_id":"da85b54c17307b1d"
         
         
    
